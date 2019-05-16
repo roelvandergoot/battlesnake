@@ -1,0 +1,19 @@
+# Build and release
+ajsonapi.egg-info
+build
+dist
+
+# Pytest
+.coverage
+.pytest_cache
+htmlcov
+
+# Python
+__pycache__
+*.pyc
+
+# Miscellaneous
+*.orig
+
+# Tags
+tags
